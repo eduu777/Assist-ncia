@@ -1,0 +1,150 @@
+body.custom{
+	background-color: #f2f2f2;
+}
+
+ul.custom{
+	height: 10vh;
+}
+
+a.custom{
+	color: black;
+}
+
+a.custom:hover{
+	color: #3d8bfd;
+}
+
+img.custom{
+	width: 100%;
+}
+
+button.custom{
+	border-radius: 40px; 
+	width: 110px; 
+	height: 50px;
+	border:none; 
+	text-align: center;
+	font-size: 18px;
+}
+
+.whatsapp-link{
+	position: fixed;
+	height: 60px;
+	width: 60px;
+	bottom: 40px;
+	right: 40px;
+	background-color: #25d366;
+	color: white;
+	border: none;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 38px;
+	z-index: 1000;
+}
+
+.whatsapp-link:hover{
+	position: fixed;
+	height: 65px;
+	width: 65px;
+	bottom: 40px;
+	right: 40px;
+	background-color: #25d366;
+	color: white;
+	border-radius: 50px;
+	text-align: center;
+	font-size: 42px;
+	z-index: 1000;
+}
+
+.fa-whatsapp{
+	margin-top: 12px;
+}
+
+div#about-area{
+	margin: 70px;
+}
+
+button.custom2{
+	color: black;
+	height: 180px;
+	width: 180px;
+	border-style: solid;
+	border-color: gray;
+	margin-left: 12px;
+	margin-top: 8px;
+}
+
+i.custom2{
+	color: #00B5E6;
+}
+
+button.custom2:hover{
+	color: white;
+	background-color: #00B5E6;
+}
+
+button.custom2:hover i.custom2{
+	color: white;
+	background-color: #00B5E6;
+}
+
+/*
+ * Dummy devices (replace them with your own or something else entirely!)
+ */
+
+.product-device {
+  position: absolute;
+  right: 10%;
+  bottom: -30%;
+  width: 300px;
+  height: 540px;
+  background-color: #333;
+  border-radius: 21px;
+  transform: rotate(30deg);
+}
+
+.product-device::before {
+  position: absolute;
+  top: 10%;
+  right: 10px;
+  bottom: 10%;
+  left: 10px;
+  content: "";
+  background-color: rgba(255, 255, 255, .1);
+  border-radius: 5px;
+}
+
+.product-device-2 {
+  top: -25%;
+  right: auto;
+  bottom: 0;
+  left: 5%;
+  background-color: #e5e5e5;
+}
+
+.circle-box div{
+	padding: 0 40px;
+}
+
+.progressbar-text{
+	font-weight: bold;
+	font-size: 32px;
+}
+
+#data-area{
+	color: #000;
+	text-align: center;
+	font-size: 24px;
+	margin-top: 20px;
+}
+
+#btn_OU{
+	width: 100%;
+	border: none;
+	background-color: transparent;
+}
+
+#card_OU:hover{
+	background-color: #EAEAEA;
+}
+
