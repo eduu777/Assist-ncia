@@ -180,7 +180,7 @@ tstlog();
     <!-- Team item-->
     <div class="col-xl-3 col-sm-6 mb-5" data-aos="flip-left" data-aos-duration="1700">
       <div class="bg-white rounded shadow-sm py-5 px-4"><img src="Imagens/loja/erik.png" alt="" style="height: 100px; width: 100px;" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
-        <h5 class="mb-0">Ninguem</h5><span class="small text-uppercase text-muted">Gerente de Marketing</span>
+        <h5 class="mb-0">Ninguem 1</h5><span class="small text-uppercase text-muted">Gerente de Marketing</span>
         <ul class="social mb-0 list-inline mt-3">
           <li class="list-inline-item"><a href="#" class="social-link"><i class="bi bi-facebook"></i></a></li>
           <li class="list-inline-item"><a href="#" class="social-link"><i class="bi bi-twitter"></i></a></li>
